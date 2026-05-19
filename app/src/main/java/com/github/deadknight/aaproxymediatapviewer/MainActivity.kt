@@ -73,7 +73,7 @@ import java.net.Socket
 import java.net.URL
 import java.util.concurrent.atomic.AtomicBoolean
 
-private const val DEFAULT_HOST = "192.168.1.166"
+private const val DEFAULT_HOST = "10.0.0.1"
 private const val TAG = "MediaTapViewer"
 
 private const val PREFS_NAME = "media_tap_viewer"
